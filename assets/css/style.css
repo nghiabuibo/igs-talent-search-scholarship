@@ -1,0 +1,61 @@
+body {
+	background-color: #e8eaf6;
+	background-image: url('../imgs/bg.jpg');
+	background-position: top center;
+	background-size: cover;
+	min-height: 100vh;
+	font-family: 'Manrope', sans-serif;
+	display: flex;
+	align-items: center;
+	overflow-x: hidden;
+}
+.logo {
+	max-width: 100%;
+	max-height: 70px;
+	display: block;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.section-col {
+	background-color: rgb(255 255 255 / .7);
+	border-radius: 15px;
+	padding: 30px 25px;
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+}
+.form {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(255,255,255,0.8);
+	border-radius: 15px;
+	padding: 80px;
+}
+.form-control {
+	background: transparent !important;
+	border: 1px solid var(--bs-body-color);
+	box-shadow: none !important;
+}
+.form-control:focus {
+	border-color: #094fbf;
+}
+.btn-igs {
+	--bs-btn-color: #fff;
+	--bs-btn-bg: #002868;
+	--bs-btn-border-color: #002868;
+	--bs-btn-hover-color: #fff;
+	--bs-btn-hover-bg:  #031a40;
+	--bs-btn-hover-border-color: #031a40;
+	--bs-btn-active-color: #fff;
+	--bs-btn-active-bg: #031a40;
+	--bs-btn-active-border-color: #031a40;
+	--bs-btn-disabled-color: #fff;
+	--bs-btn-disabled-bg: #6c6c6c;
+	--bs-btn-disabled-border-color: #6c6c6c;
+}
+
+table#search_result tr th:last-child,
+table#search_result tr td:last-child {
+	text-align: center;
+}

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  webserver:
+    # image: php:apache
+    build: .
+    container_name: igs-talent-search
+    ports:
+      - "8082:80"
+    volumes:
+      - ./:/var/www/html

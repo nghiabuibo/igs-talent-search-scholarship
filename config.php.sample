@@ -1,0 +1,15 @@
+<?php
+
+$config = [
+	'api_url' => 'https://sheets.googleapis.com/v4/spreadsheets/',
+	'scholarship' => [
+		'spreadsheet_id' => '',
+		'sheet_name' => '',
+		'sheet_range' => '',
+		'cols' => [
+			'<COL1_NAME>' => 0,
+			'<COL2_NAME>' => 1
+		]
+	],
+	'api_key' => ''
+];
