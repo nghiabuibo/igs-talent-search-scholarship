@@ -12,11 +12,11 @@
 	<meta content="Tra cứu học bổng - Ivy Global School" property="og:title"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" property="og:description"/>
 	<meta content="Ivy Global School" property="og:site_name"/>
-	<meta content="assets/imgs/og-image2.jpg" property="og:image"/>
+	<meta content="https://talentsearch.ivyglobalschool.org/scholarship/assets/imgs/og-image2.jpg" property="og:image"/>
 	<meta content="summary" name="twitter:card"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" name="twitter:description"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" name="twitter:title"/>
-	<meta content="assets/imgs/bg.jpg" name="twitter:image"/>
+	<meta content="https://talentsearch.ivyglobalschool.org/scholarship/assets/imgs/og-image2.jpg" name="twitter:image"/>
 	<meta name="msapplication-TileImage" content="https://ivyglobalschool.org/media/0scluqrx/logo-favicon.ico" />
 	<link rel="shortcut icon" href="https://ivyglobalschool.org/media/0scluqrx/logo-favicon.ico" type="image/x-icon" />
 	<link rel="apple-touch-icon" href="https://ivyglobalschool.org/media/0scluqrx/logo-favicon.ico">
