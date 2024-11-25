@@ -12,7 +12,7 @@
 	<meta content="Tra cứu học bổng - Ivy Global School" property="og:title"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" property="og:description"/>
 	<meta content="Ivy Global School" property="og:site_name"/>
-	<meta content="assets/imgs/og-image.jpg" property="og:image"/>
+	<meta content="assets/imgs/og-image2.jpg" property="og:image"/>
 	<meta content="summary" name="twitter:card"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" name="twitter:description"/>
 	<meta content="Tra cứu học bổng - Ivy Global School" name="twitter:title"/>
